@@ -12,7 +12,7 @@ Developed a business analytics and forecasting project to identify future high-g
 
 > **⚠️Note
 Client data is protected under a Non-Disclosure Agreement with Lithko Contracting.
-Code samples use synthetic demonstration data only.SQL query files and raw data files cannot be shared due to NDA restrictions.
+Code samples use synthetic demonstration data only. SQL query files and raw data files cannot be shared due to NDA restrictions.
 Results above reflect actual model performance on real client data.**
 
 ---
@@ -65,6 +65,14 @@ Results above reflect actual model performance on real client data.**
 
 ## Business Impact
 Generated analytical insights, KPI dashboards, and forecasting models to support strategic planning, operational analysis, and data-driven business decision-making.
+
+- Enabled Lithko leadership to identify high-growth construction 
+  sectors 4-6 quarters in advance
+- Data Center sector showed 80.1% improvement over baseline model
+- Manufacturing sector showed 83.8% improvement over baseline model
+- 4 out of 5 sectors produced actionable forecasting signals
+- Reduced reliance on manual market intuition with data-driven 
+  early warning indicators
 
 ---
 
