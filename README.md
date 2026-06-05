@@ -10,7 +10,7 @@ Advisor: Professor M. Gorman | Team UD
 ## Project Overview
 Developed a business analytics and forecasting project to identify future high-growth construction sectors using internal operational data and external economic indicators. The project focused on forecasting market trends, analyzing business performance, and supporting strategic decision-making through predictive analytics and business intelligence techniques.
 
-**Note
+> **⚠️Note
 Client data is protected under a Non-Disclosure Agreement with Lithko Contracting.
 Code samples use synthetic demonstration data only.SQL query files and raw data files cannot be shared due to NDA restrictions.
 Results above reflect actual model performance on real client data.**
