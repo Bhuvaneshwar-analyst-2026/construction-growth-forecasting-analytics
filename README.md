@@ -1,6 +1,6 @@
 # Construction Growth Forecasting Analytics
 
-**## Client
+**# Client
 Lithko Contracting — one of the largest concrete contractors in the United States**
 
 ## University
