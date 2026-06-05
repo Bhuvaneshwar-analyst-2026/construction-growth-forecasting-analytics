@@ -1,7 +1,7 @@
 # Construction Growth Forecasting Analytics
 
-**# Client
-Lithko Contracting — one of the largest concrete contractors in the United States**
+**Client
+Lithko Contracting — one of the largest concrete contractors in the United States.**
 
 ## University
 University of Dayton | Master of Business Analytics Capstone | April 2026
