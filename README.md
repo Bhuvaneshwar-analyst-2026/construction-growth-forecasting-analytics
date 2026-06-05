@@ -33,6 +33,8 @@ Results above reflect actual model performance on real client data.**
 - 20+ external economic indicators evaluated
 
 ## Tools & Technologies
+
+- R (tidyverse, forecast, ggplot2)
 - SQL
 - Python
 - Power BI
